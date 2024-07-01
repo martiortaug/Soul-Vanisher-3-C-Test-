@@ -1,0 +1,18 @@
+﻿  personaje.cpp
+  SoulVanisher3.cpp
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(204,9): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(203,9): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(202,9): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(201,9): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(200,9): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(239,22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(240,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(241,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(242,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(335,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(336,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(337,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(338,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\SoulVanisher3\SoulVanisher3.cpp(469,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  SoulVanisher3.vcxproj -> C:\Users\usuario\OneDrive - Centre d'Estudis Monlau\1DAM\M5 - Entorns de desenvolupament\Act\Projects\SoulVanisher3\x64\Debug\SoulVanisher3.exe
